@@ -1,0 +1,2 @@
+wscript.exe
+"file-location\start_hidden.vbs"
